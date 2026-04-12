@@ -21,3 +21,4 @@
 # 通配符 . 只能用于域名前缀匹配
 payload:
   - "+.deepseek.com"
+  - "+.tailscale.com"

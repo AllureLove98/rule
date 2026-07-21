@@ -7,7 +7,7 @@
 # '*'只匹配 localhost 等域
 
 # 通配符 +
-# 通配符 ＋ 类似 DOMAIN-SUFFIX, 可以一次性匹配多个级别
+# 通配符 ＋ 类似 " 可以一次性匹配多个级别
 
 # ＋.baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com 或者 baidu.com
 
@@ -27,3 +27,9 @@ payload:
   - "+.pornhub.com"
   - "+.itch.io"
   - "+.hdhive.com"
+  - "api.push.apple.com"
+  - "push.apple.com"
+  - "akadns.net"
+  - "apple.com.edgekey.net"
+  - "gateway.push.apple.com"
+  - "sanbox.push.apple.com"

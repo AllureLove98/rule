@@ -27,6 +27,7 @@ payload:
   - "+.pornhub.com"
   - "+.itch.io"
   - "+.hdhive.com"
+  - "+.seeck.cn"
   # - 'api.push.apple.com'
   # - 'push.apple.com'
   # - 'akadns.net'

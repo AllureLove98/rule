@@ -28,6 +28,8 @@ payload:
   - "+.itch.io"
   - "+.hdhive.com"
   - "+.seeck.cn"
+  - "+.alicesw.com"
+  - "+.alicesw.org"
   # - 'api.push.apple.com'
   # - 'push.apple.com'
   # - 'akadns.net'

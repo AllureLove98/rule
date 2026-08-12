@@ -30,6 +30,8 @@ payload:
   - "+.seeck.cn"
   - "+.alicesw.com"
   - "+.alicesw.org"
+  - "+.linux.do"
+  - "+.nodeseek.com"
   # - 'api.push.apple.com'
   # - 'push.apple.com'
   # - 'akadns.net'
